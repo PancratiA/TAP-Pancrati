@@ -1,0 +1,9 @@
+# ninja log v5
+6	2156	7263001149330843	T6_autogen/timestamp	7b61c776fa2f3735
+6	2156	7263001149330843	T6_autogen/mocs_compilation.cpp	7b61c776fa2f3735
+6	2156	7263001149330843	C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-T6-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/T6_autogen/timestamp	7b61c776fa2f3735
+6	2156	7263001149330843	C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-T6-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/T6_autogen/mocs_compilation.cpp	7b61c776fa2f3735
+2158	8013	7263001209315813	CMakeFiles/T6.dir/T6_autogen/mocs_compilation.cpp.obj	2943ceaf980a6ed2
+2162	8029	7263001209485805	CMakeFiles/T6.dir/main.cpp.obj	8fa3f3bd82ef9238
+2167	8194	7263001211135795	CMakeFiles/T6.dir/dialog.cpp.obj	c15ad68ec4059e3a
+8195	8987	7263001219008772	T6.exe	36af494db79b23c3

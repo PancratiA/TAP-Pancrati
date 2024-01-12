@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>MTKV6972.PNG</file>
+        <file>YDJM7813.PNG</file>
+    </qresource>
+</RCC>

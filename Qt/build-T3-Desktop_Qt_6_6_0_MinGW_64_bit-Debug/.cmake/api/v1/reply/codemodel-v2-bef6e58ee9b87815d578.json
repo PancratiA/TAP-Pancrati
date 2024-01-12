@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9719f309e9fd5c7ac3f7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "T3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "T3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T3-Debug-2e7a50e6f4f548826d82.json",
+					"name" : "T3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "T3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T3_autogen-Debug-90ac99d4a88d0e3b8815.json",
+					"name" : "T3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "T3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-T3_autogen_timestamp_deps-Debug-623d0b4e4d9ec74f87fd.json",
+					"name" : "T3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-T3-Desktop_Qt_6_6_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/T3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

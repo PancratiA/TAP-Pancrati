@@ -1,0 +1,24 @@
+# ninja log v5
+3	297	7262602697648835	hello-T2_autogen/timestamp	9d0b61ac154b6b37
+3	297	7262602697648835	hello-T2_autogen/mocs_compilation.cpp	9d0b61ac154b6b37
+3	297	7262602697648835	C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-hello-T2-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/hello-T2_autogen/timestamp	9d0b61ac154b6b37
+3	297	7262602697648835	C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-hello-T2-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/hello-T2_autogen/mocs_compilation.cpp	9d0b61ac154b6b37
+298	394	7262602699378755	CMakeFiles/hello-T2.dir/hello-T2_autogen/mocs_compilation.cpp.obj	b3d6e8040a8b90f2
+13	217	7262603930762248	hello-T2_autogen/timestamp	9d0b61ac154b6b37
+13	217	7262603930762248	hello-T2_autogen/mocs_compilation.cpp	9d0b61ac154b6b37
+13	217	7262603930762248	C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-hello-T2-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/hello-T2_autogen/timestamp	9d0b61ac154b6b37
+13	217	7262603930762248	C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-hello-T2-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/hello-T2_autogen/mocs_compilation.cpp	9d0b61ac154b6b37
+221	3492	7262603963501112	CMakeFiles/hello-T2.dir/main.cpp.obj	4c815fbf408c7a46
+3498	3742	7262603965961030	hello-T2.exe	a497b3595a86d920
+19	232	7262604378626958	hello-T2_autogen/timestamp	9d0b61ac154b6b37
+19	232	7262604378626958	hello-T2_autogen/mocs_compilation.cpp	9d0b61ac154b6b37
+19	232	7262604378626958	C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-hello-T2-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/hello-T2_autogen/timestamp	9d0b61ac154b6b37
+19	232	7262604378626958	C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-hello-T2-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/hello-T2_autogen/mocs_compilation.cpp	9d0b61ac154b6b37
+234	3535	7262604411667710	CMakeFiles/hello-T2.dir/main.cpp.obj	4c815fbf408c7a46
+3536	3732	7262604413567673	hello-T2.exe	a497b3595a86d920
+5	163	7262606449919320	hello-T2_autogen/timestamp	9d0b61ac154b6b37
+5	163	7262606449919320	hello-T2_autogen/mocs_compilation.cpp	9d0b61ac154b6b37
+5	163	7262606449919320	C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-hello-T2-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/hello-T2_autogen/timestamp	9d0b61ac154b6b37
+5	163	7262606449919320	C:/Users/Acasa/Desktop/Uni/Programare/TAP/Proiecte/Qt/build-hello-T2-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/hello-T2_autogen/mocs_compilation.cpp	9d0b61ac154b6b37
+166	3253	7262606480818868	CMakeFiles/hello-T2.dir/main.cpp.obj	4c815fbf408c7a46
+3255	3452	7262606482748841	hello-T2.exe	a497b3595a86d920
